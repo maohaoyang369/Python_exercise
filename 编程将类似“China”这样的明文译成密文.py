@@ -20,4 +20,4 @@ def encrypt(sentance):
         sentance_encrypt += i
     return sentance_encrypt
 
-print(encrypt("China"))
+print(encrypt("Hello, I am from China! 666"))

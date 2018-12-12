@@ -12,9 +12,12 @@ def encrypt(sentance):
     sentance_encrypt = ""
     for i in sentance:
         # print(i)
-        if i in string.ascii_letters and (ord(i)+4 >= ord('a') and ord(i)+4 <= ord('z')) or (ord(i)+4 >= ord('A') and ord(i)+4 <= ord('Z')):
+        if i in string.ascii_letters and (ord(i)+4 >= ord('a') and ord(i)+4 <= ord('z')) \
+                or (ord(i)+4 >= ord('A') and ord(i)+4 <= ord('Z')):
             i = i.replace(i, chr(ord(i) + 4))
             # print(i)
+        elif i in string.punctuation or " ":
+            i = i
         else:
             i = i.replace(i, chr(ord(i) - 22))
         sentance_encrypt += i

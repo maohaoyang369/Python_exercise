@@ -6,17 +6,16 @@
 # 遍历列表的每一个元素
 # 将所有元素相加，求和
 
-array = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-count = 0
+array = [[1, 2, 3], [4, 15, 6], [7, 8, 9]]
 
 
 def count_list_num(array):
-    global count
+    count = 0
     for i in array:
         if not isinstance(i, list):
             count += i
         else:
-            count_list_num(i)
+            count += count_list_num(i)
     return count
 
 

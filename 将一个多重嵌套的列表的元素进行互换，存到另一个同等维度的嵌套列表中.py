@@ -11,7 +11,7 @@ for i in range(len(sentance)):
     # print(i)
     for j in range(len(sentance[i])):
         # print(j)
-        print(sentance[i][j])
+        # print(sentance[i][j])
         result[j][i] = sentance[i][j]
 print(result)
 

@@ -7,19 +7,17 @@ sentence = [1, 22, 33, 44, 54, 55, 57, 89, 93]
 
 
 def bisection_method(arr, key):
-    min_num = 0
-    max_num = len(arr)-1
-    if key in arr:
-        while True:
-            center_num = int((min_num + max_num) / 2)
-            if arr[center_num] > key:
-                max_num = center_num - 1
-            elif arr[center_num] < key:
-                min_num = center_num + 1
-            elif arr[]
+    min_num = arr[0]
+    max_num = arr[-1]
+    center_num = int((min_num+max_num)/2)
+    if key == center_num:
+        return int(len(arr)/2)
+    if key < center_num:
+        return bisection_method(arr[0, int(len(arr)/2)])
+    if key > center_num:
+        return bisection_method(arr[int(len(arr)/2), -1])
 
 
-
-print(bisection_method(sentence, 44))
+# print(bisection_method(sentence, 44))
 print(bisection_method(sentence, 54))
-print(bisection_method(sentence, 92))
+# print(bisection_method(sentence, 92))

@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# 输入数字a，n，如a，4，则打印a+aa+aaa+aaaa之和
+
 num = input("Please enter numbers: ")
 num_time = input("Please enter numbers: ")
 

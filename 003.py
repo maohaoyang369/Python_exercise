@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# 钞票换硬币
 
 residue = 100
 count = 0

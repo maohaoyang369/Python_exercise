@@ -3,6 +3,7 @@
 
 # 钞票换硬币
 
+
 residue = 100
 count = 0
 result = []

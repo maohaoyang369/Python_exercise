@@ -1,4 +1,4 @@
-Python_exercise catalog 
+##### Python_exercise catalog 
 
 ###### [001.写一个函数实现一个数学公式](https://github.com/maohaoyang369/Python_exercise/blob/master/001.py)
 
@@ -139,3 +139,4 @@ Python_exercise catalog
 ###### [069.一个包含多个数字的列表，请使用随机的方式，将每个数字+1后，生成新列表](https://github.com/maohaoyang369/Python_exercise/blob/master/069.py)
 
 ###### [070.将文件名称非数字的删除](https://github.com/maohaoyang369/Python_exercise/blob/master/070.py)
+

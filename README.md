@@ -134,7 +134,8 @@ Python_exercise catalog
 
 ###### [067.Collatz 序列（让用户输入一个整数，并不断对这个数调用 collatz()，直到函数返回值1）](https://github.com/maohaoyang369/Python_exercise/blob/master/067.py)
 
-###### [068.renamefloder_add_numbers](https://github.com/maohaoyang369/Python_exercise/blob/master/068.py)
+###### [068.renamefloder_add_numbers，将文件前面加上三位数字](https://github.com/maohaoyang369/Python_exercise/blob/master/068.py)
 
 ###### [069.一个包含多个数字的列表，请使用随机的方式，将每个数字+1后，生成新列表](https://github.com/maohaoyang369/Python_exercise/blob/master/069.py)
 
+###### [070.将文件名称非数字的删除](https://github.com/maohaoyang369/Python_exercise/blob/master/070.py)

@@ -140,3 +140,4 @@
 
 ###### [070.将文件名称非数字的删除](https://github.com/maohaoyang369/Python_exercise/blob/master/070.py)
 
+###### [071.复制前面的网格值，编写代码用它打印出图像](https://github.com/maohaoyang369/Python_exercise/blob/master/071.py)

@@ -141,3 +141,21 @@
 ###### [070.将文件名称非数字的删除](https://github.com/maohaoyang369/Python_exercise/blob/master/070.py)
 
 ###### [071.复制前面的网格值，编写代码用它打印出图像](https://github.com/maohaoyang369/Python_exercise/blob/master/071.py)
+
+###### [072.假定你希望程序保存朋友生日的数据，就可以使用一个字典，用名字作为键，用生日作为值](https://github.com/maohaoyang369/Python_exercise/blob/master/072.py)
+
+###### [073.下面有一个小程序，计算一个字符串中每个字符出现的次数](https://github.com/maohaoyang369/Python_exercise/blob/master/073.py)
+
+###### [074.统计一句话中，一共出现了多少个单词，每个英文单词出现的次数](https://github.com/maohaoyang369/Python_exercise/blob/master/074.py)
+
+###### [075.列表重排](https://github.com/maohaoyang369/Python_exercise/blob/master/075.py)
+
+###### [076.生成字符串：a1b2c3d4.....j10](https://github.com/maohaoyang369/Python_exercise/blob/master/076.py)
+
+###### [077.输入1-127的ascii码并输出对应字符](https://github.com/maohaoyang369/Python_exercise/blob/master/077.py)
+
+###### [078.输入a，b，c，d 四个整数，计算 a+b-c*d 的结果](https://github.com/maohaoyang369/Python_exercise/blob/master/078.py)
+
+###### [079.计算一周有多少分钟、多少秒钟](https://github.com/maohaoyang369/Python_exercise/blob/master/079.py)
+
+

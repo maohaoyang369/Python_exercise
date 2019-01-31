@@ -158,6 +158,6 @@
 
 ###### [079.计算一周有多少分钟、多少秒钟](https://github.com/maohaoyang369/Python_exercise/blob/master/079.py)
 
-###### [080.计算一周有多少分钟、多少秒钟](https://github.com/maohaoyang369/Python_exercise/blob/master/080.py)
+###### [080.3个人在餐厅吃饭，想分摊饭费。总共花费35.27美元，他们还想给15%的小费。每个人该怎么付钱](https://github.com/maohaoyang369/Python_exercise/blob/master/080.py)
 
 

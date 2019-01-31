@@ -169,3 +169,33 @@
 ###### [084.将温度从华氏温度转换为摄氏温度](https://github.com/maohaoyang369/Python_exercise/blob/master/084.py)
 
 ###### [085.写一程序，询问购买价格，再显示出折扣（10%或20%）和最终价格](https://github.com/maohaoyang369/Python_exercise/blob/master/085.py)
+
+###### [086.判断一个数n，能否同时被3和5整除](https://github.com/maohaoyang369/Python_exercise/blob/master/086.py)
+
+###### [087.交换两个变量的值](https://github.com/maohaoyang369/Python_exercise/blob/master/087.py)
+
+###### [088.一个足球队在寻找年龄在10到12岁的小女孩（包括10到12岁）加入](https://github.com/maohaoyang369/Python_exercise/blob/master/088.py)
+
+###### [089.长途旅行中，刚到一个加油站，距下一个加油站还有200km，而且以后每个加油站之间距离都是200km。编写一个程序确定是不是需要在这里加油，还是可以等到接下来的第几个加油站再加油](https://github.com/maohaoyang369/Python_exercise/blob/master/089.py)
+
+###### [090.现有面包、热狗、番茄酱、芥末酱以及洋葱，数字显示有多少种订购组合](https://github.com/maohaoyang369/Python_exercise/blob/master/090.py)
+
+###### [091.现有面包、热狗、番茄酱、芥末酱以及洋葱，数字显示有多少种订购组合,再计算出每种组合总共的卡路里](https://github.com/maohaoyang369/Python_exercise/blob/master/091.py)
+
+###### [092.输入5个名字，排序后输出](https://github.com/maohaoyang369/Python_exercise/blob/master/092.py)
+
+###### [093.实现一个简单的单词本](https://github.com/maohaoyang369/Python_exercise/blob/master/093.py)
+
+###### [094.输入一个整数，输出其阶乘结果](https://github.com/maohaoyang369/Python_exercise/blob/master/094.py)
+
+###### [095.计算存款利息](https://github.com/maohaoyang369/Python_exercise/blob/master/095.py)
+
+###### [096.输入3个数字，以逗号隔开，输出其中最大的数](https://github.com/maohaoyang369/Python_exercise/blob/master/096.py)
+
+###### [097.输入一个年份，输出是否为闰年](https://github.com/maohaoyang369/Python_exercise/blob/master/097.py)
+
+###### [098.求两个正整数m和n的最大公约数](https://github.com/maohaoyang369/Python_exercise/blob/master/098.py)
+
+###### [099.写一个函数，统计一下一句话中的数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/099.py)
+
+###### [100.统计一下字母个数](https://github.com/maohaoyang369/Python_exercise/blob/master/100.py)

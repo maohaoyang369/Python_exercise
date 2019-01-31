@@ -160,4 +160,12 @@
 
 ###### [080.3个人在餐厅吃饭，想分摊饭费。总共花费35.27美元，他们还想给15%的小费。每个人该怎么付钱](https://github.com/maohaoyang369/Python_exercise/blob/master/080.py)
 
+###### [081.计算一个12.5m*16.7m的矩形房间的面积和周长](https://github.com/maohaoyang369/Python_exercise/blob/master/081.py)
 
+###### [082.怎么得到9/2 的小数结果](https://github.com/maohaoyang369/Python_exercise/blob/master/082.py)
+
+###### [083.python计算中7*7*7*7， 可以有多少种写法](https://github.com/maohaoyang369/Python_exercise/blob/master/083.py)
+
+###### [084.将温度从华氏温度转换为摄氏温度](https://github.com/maohaoyang369/Python_exercise/blob/master/084.py)
+
+###### [085.写一程序，询问购买价格，再显示出折扣（10%或20%）和最终价格](https://github.com/maohaoyang369/Python_exercise/blob/master/085.py)

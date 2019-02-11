@@ -199,3 +199,27 @@
 ###### [099.写一个函数，统计一下一句话中的数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/099.py)
 
 ###### [100.统计一下字母个数](https://github.com/maohaoyang369/Python_exercise/blob/master/100.py)
+
+###### [101.统计一下字母和数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/101.py)
+
+###### [102.统计一下非字母和非数字的个数](https://github.com/maohaoyang369/Python_exercise/blob/master/102.py)
+
+###### [103.一个list包含10个数字，要求生成新的list，list里面的数都比之前的数多1](https://github.com/maohaoyang369/Python_exercise/blob/master/103.py)
+
+###### [104.倒序取出每个单词的第一个字母](https://github.com/maohaoyang369/Python_exercise/blob/master/104.py)
+
+###### [105.找出s ="aabbccddffffxxxx"中，出现次数最多的字母](https://github.com/maohaoyang369/Python_exercise/blob/master/105.py)
+
+###### [106.从字典中取出值最大的key](https://github.com/maohaoyang369/Python_exercise/blob/master/106.py)
+
+###### [107.写一个函数 要求返回一个商和余数](https://github.com/maohaoyang369/Python_exercise/blob/master/107.py)
+
+###### [108.设定一个用户名和密码，用户输入正确的用户名和密码，则显示登录成功，否则提示登录失败，用户最多失败3次，否则退出程序](https://github.com/maohaoyang369/Python_exercise/blob/master/108.py)
+
+###### [109.自己实现一个函数，在一句话中查找某个单词的算法，存在返回索引号，否则返回False](https://github.com/maohaoyang369/Python_exercise/blob/master/109.py)
+
+###### [110.随机生成一个整数，1-100之间,你最多猜5次，如果猜大了，提示大了,小了，提示小了，](https://github.com/maohaoyang369/Python_exercise/blob/master/110.py)
+
+###### [105.统计一下字母和数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/105.py)
+
+###### [105.统计一下字母和数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/105.py)

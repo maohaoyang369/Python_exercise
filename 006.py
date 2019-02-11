@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-!
 
 # 写一个班级的类，存储班里人数，统计班级里所有学科的最高分和平均分，

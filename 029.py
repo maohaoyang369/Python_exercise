@@ -14,7 +14,4 @@ def triangle_yanghui(line):
             #elif j == 2:
               #  print(" "*(2*line-i)+str(i))
 
-
-
-
 print(triangle_yanghui(7))

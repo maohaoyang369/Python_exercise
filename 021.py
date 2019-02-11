@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-!
 
 # 对一个列表求和，如列表是[4, 3, 6]，求和结果是 [4, 7, 13]，

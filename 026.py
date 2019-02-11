@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-!
 
 # 打印100以内的素数（除了1和它本身以外不再有其他因数）
@@ -16,4 +16,3 @@ def is_prime(num):
 for i in range(2, 101):
     if is_prime(i):
         print(i, end=" ")
-

@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-!
 
 # 实现一个简易版的计算器，功能要求：加、减、乘、除，支持多数同时进行计算

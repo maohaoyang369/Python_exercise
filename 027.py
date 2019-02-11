@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-!
 
 # 打印2000-3000之间被7整除但不被5整除的数，以，(逗号)分隔

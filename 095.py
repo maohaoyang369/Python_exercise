@@ -22,7 +22,7 @@ pri2 = principal + principal * r2 * term
 pri3 = (principal + principal * r3 * term/2) + (principal + principal * r3 * term/2) * r3 * term/2
 pri4 = principal + principal * r4 * term
 
-print("第一种本息和为：",pri1)
-print("第二种本息和为：",pri2)
-print("第三种本息和为：",pri3)
-print("第四种本息和为：",pri4)
+print("第一种本息和为：", pri1)
+print("第二种本息和为：", pri2)
+print("第三种本息和为：", pri3)
+print("第四种本息和为：", pri4)

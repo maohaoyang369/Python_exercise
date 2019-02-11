@@ -14,7 +14,7 @@ while True:
     if name == '':
         break
     if name in word_book:
-        print(name,"：", word_book[name])
+        print(name, "：", word_book[name])
         del_key = input("Do you want delete it? Please enter Y or N：")
         if del_key == "Y":
             del word_book[name]

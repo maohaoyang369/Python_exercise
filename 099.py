@@ -7,7 +7,7 @@ sentence = "I am a 19 years old boy! 666!"
 
 
 def total_num(s):
-    if not isinstance(s,str):
+    if not isinstance(s, str):
         print("the parameter is not a unicode string! ")
         return 0
     result = 0

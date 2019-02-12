@@ -220,6 +220,18 @@
 
 ###### [110.随机生成一个整数，1-100之间,你最多猜5次，如果猜大了，提示大了,小了，提示小了，](https://github.com/maohaoyang369/Python_exercise/blob/master/110.py)
 
-###### [105.统计一下字母和数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/105.py)
+###### [111.使用while,计算随机数之和，超过100的时候，停止程序](https://github.com/maohaoyang369/Python_exercise/blob/master/111.py)
 
-###### [105.统计一下字母和数字个数](https://github.com/maohaoyang369/Python_exercise/blob/master/105.py)
+###### [112.遍历一个列表中的嵌套列表和元组的所有元素,将1-12的数字进行输出](https://github.com/maohaoyang369/Python_exercise/blob/master/112.py)
+
+###### [113. 使用 for 的方式，求一下100以内奇数之和](https://github.com/maohaoyang369/Python_exercise/blob/master/113.py)
+
+###### [114. 用输入多个数字，当输入偶数的时候求和，输入奇数，不求和，输入.的时候结束求和，打印求和结果](https://github.com/maohaoyang369/Python_exercise/blob/master/114.py)
+
+###### [115. 嵌套循环输出10-50中个位带有1-5的所有数字](https://github.com/maohaoyang369/Python_exercise/blob/master/115.py)
+
+###### [116. 输入3个数字，达到3个数字求和，结束程序](https://github.com/maohaoyang369/Python_exercise/blob/master/116.py)
+
+###### [113. 使用 for 的方式，求一下100以内奇数之和](https://github.com/maohaoyang369/Python_exercise/blob/master/113.py)
+
+###### [113. 使用 for 的方式，求一下100以内奇数之和](https://github.com/maohaoyang369/Python_exercise/blob/master/113.py)

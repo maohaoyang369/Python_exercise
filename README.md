@@ -234,4 +234,4 @@
 
 ###### [117. 用户输入不同的数据，当输入的数据达到3个数字的时候，求和结束程序](https://github.com/maohaoyang369/Python_exercise/blob/master/117.py)
 
-###### [113. 使用 for 的方式，求一下100以内奇数之和](https://github.com/maohaoyang369/Python_exercise/blob/master/113.py)
+###### [118. 把字符串中的所有数字删除掉](https://github.com/maohaoyang369/Python_exercise/blob/master/118.py)

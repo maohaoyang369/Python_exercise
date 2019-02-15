@@ -235,3 +235,15 @@
 ###### [117. 用户输入不同的数据，当输入的数据达到3个数字的时候，求和结束程序](https://github.com/maohaoyang369/Python_exercise/blob/master/117.py)
 
 ###### [118. 把字符串中的所有数字删除掉](https://github.com/maohaoyang369/Python_exercise/blob/master/118.py)
+
+###### [119. 取出列表的最大值](https://github.com/maohaoyang369/Python_exercise/blob/master/119.py)
+
+###### [120. 三个数字排序](https://github.com/maohaoyang369/Python_exercise/blob/master/120.py)
+
+###### [121. 比较两个数的大小，返回不同的结果](https://github.com/maohaoyang369/Python_exercise/blob/master/121.py)
+
+###### [122. 求矩阵四个边的和](https://github.com/maohaoyang369/Python_exercise/blob/master/122.py)
+
+###### [123. 用嵌套列表的方式，来输出一个矩阵 统计对角线之和](https://github.com/maohaoyang369/Python_exercise/blob/master/123.py)
+
+###### [124. 比较两个数的大小，返回不同的结果](https://github.com/maohaoyang369/Python_exercise/blob/master/124.py)

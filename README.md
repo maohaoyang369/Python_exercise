@@ -247,3 +247,7 @@
 ###### [123. 用嵌套列表的方式，来输出一个矩阵 统计对角线之和](https://github.com/maohaoyang369/Python_exercise/blob/master/123.py)
 
 ###### [124. 比较两个数的大小，返回不同的结果](https://github.com/maohaoyang369/Python_exercise/blob/master/124.py)
+
+###### [125. 找出一个多维数组的鞍点，即该位置上的元素在该行上最大，在该列上最小，也可能没有鞍点](https://github.com/maohaoyang369/Python_exercise/blob/master/125.py)
+
+###### [126. 写一个函数，识别输入字符串是否是符合 python 语法的变量名](https://github.com/maohaoyang369/Python_exercise/blob/master/126.py)

@@ -251,3 +251,5 @@
 ###### [125. 找出一个多维数组的鞍点，即该位置上的元素在该行上最大，在该列上最小，也可能没有鞍点](https://github.com/maohaoyang369/Python_exercise/blob/master/125.py)
 
 ###### [126. 写一个函数，识别输入字符串是否是符合 python 语法的变量名](https://github.com/maohaoyang369/Python_exercise/blob/master/126.py)
+
+###### [127. 将一个正整数分解质因数](https://github.com/maohaoyang369/Python_exercise/blob/master/127.py)

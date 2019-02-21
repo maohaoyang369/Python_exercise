@@ -253,3 +253,9 @@
 ###### [126. 写一个函数，识别输入字符串是否是符合 python 语法的变量名](https://github.com/maohaoyang369/Python_exercise/blob/master/126.py)
 
 ###### [127. 将一个正整数分解质因数](https://github.com/maohaoyang369/Python_exercise/blob/master/127.py)
+
+###### [128. 一个字符串中，分别输出奇数坐标字符或偶数坐标字符，奇数坐标的一行，偶数坐标的一行](https://github.com/maohaoyang369/Python_exercise/blob/master/128.py)
+
+###### [129. 有一个已经排好序的列表。现输入一个数，要求按原来的规律将它插入列表中](https://github.com/maohaoyang369/Python_exercise/blob/master/129.py)
+
+###### [130. 统计名字列表中，各名字的首字母在名字列表中出现的次数](https://github.com/maohaoyang369/Python_exercise/blob/master/130.py)

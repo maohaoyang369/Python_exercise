@@ -259,3 +259,5 @@
 ###### [129. 有一个已经排好序的列表。现输入一个数，要求按原来的规律将它插入列表中](https://github.com/maohaoyang369/Python_exercise/blob/master/129.py)
 
 ###### [130. 统计名字列表中，各名字的首字母在名字列表中出现的次数](https://github.com/maohaoyang369/Python_exercise/blob/master/130.py)
+
+###### [131. 字符替换](https://github.com/maohaoyang369/Python_exercise/blob/master/131.py)

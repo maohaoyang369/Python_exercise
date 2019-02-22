@@ -261,3 +261,15 @@
 ###### [130. 统计名字列表中，各名字的首字母在名字列表中出现的次数](https://github.com/maohaoyang369/Python_exercise/blob/master/130.py)
 
 ###### [131. 字符替换](https://github.com/maohaoyang369/Python_exercise/blob/master/131.py)
+
+###### [132. 找出一段句子中最长的单词及其索引位置，以字典返回](https://github.com/maohaoyang369/Python_exercise/blob/master/132.py)
+
+###### [133. 生成9位数字和字母的密码](https://github.com/maohaoyang369/Python_exercise/blob/master/133.py)
+
+###### [134. 成绩等级判断，利用条件运算符的嵌套来完成此题](https://github.com/maohaoyang369/Python_exercise/blob/master/134.py)
+
+###### [135. 写一个文件，里面写入从gloryroad1--gloryroad100](https://github.com/maohaoyang369/Python_exercise/blob/master/135.py)
+
+###### [136. 三个人踢球，踢四次，不能踢给自己（AA BB CC），AC之间不能互传（AC CA）](https://github.com/maohaoyang369/Python_exercise/blob/master/136.py)
+
+###### [137. 实现数学中多项式求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/137.py)

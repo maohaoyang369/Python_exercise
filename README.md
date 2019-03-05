@@ -273,3 +273,11 @@
 ###### [136. 三个人踢球，踢四次，不能踢给自己（AA BB CC），AC之间不能互传（AC CA）](https://github.com/maohaoyang369/Python_exercise/blob/master/136.py)
 
 ###### [137. 实现数学中多项式求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/137.py)
+
+###### [138. 将一个文件中的所有alex字符，替换为superman](https://github.com/maohaoyang369/Python_exercise/blob/master/138.py)
+
+###### [139. 找到列表中第二大的数，可以用多种方法解决](https://github.com/maohaoyang369/Python_exercise/blob/master/139.py)
+
+###### [140. 实现数学中多项式求一个字符串中的字母个数函数，需判断传入参数的类型求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/140.py)
+
+###### [141. 实现数学中多项式求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/141.py)

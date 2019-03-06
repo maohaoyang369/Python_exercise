@@ -280,4 +280,8 @@
 
 ###### [140. 实现数学中多项式求一个字符串中的字母个数函数，需判断传入参数的类型求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/140.py)
 
-###### [141. 实现数学中多项式求和公式的打印](https://github.com/maohaoyang369/Python_exercise/blob/master/141.py)
+###### [141. 写一个函数，这个函数要计算 浮点数乘法 一万次相乘后的时间耗时，浮点数可以使用随机小数](https://github.com/maohaoyang369/Python_exercise/blob/master/141.py)
+
+###### [142. 声明一个实例来实现：初始化一个车里有多少升油](https://github.com/maohaoyang369/Python_exercise/blob/master/142.py)
+
+###### [143. add(a,b)，要求有个值是result来存结果](https://github.com/maohaoyang369/Python_exercise/blob/master/143.py)

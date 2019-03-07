@@ -285,3 +285,15 @@
 ###### [142. 声明一个实例来实现：初始化一个车里有多少升油](https://github.com/maohaoyang369/Python_exercise/blob/master/142.py)
 
 ###### [143. add(a,b)，要求有个值是result来存结果](https://github.com/maohaoyang369/Python_exercise/blob/master/143.py)
+
+###### [144. 读入一个数字，并判断是否正数，是的话打印“是正数！”，否则打印“不是正数”](https://github.com/maohaoyang369/Python_exercise/blob/master/144.py)
+
+###### [145. 读入一个数字，判断是否奇数还是偶数](https://github.com/maohaoyang369/Python_exercise/blob/master/145.py)
+
+###### [146. 输入10个数字，算一下累加和](https://github.com/maohaoyang369/Python_exercise/blob/master/146.py)
+
+###### [147. 输入5个字母，声明一个可变参数的函数，拼成一个单词](https://github.com/maohaoyang369/Python_exercise/blob/master/147.py)
+
+###### [148. 使用必填参数、默认参数、可变元组参数、可变字典参数，计算一下单词的长度之和](https://github.com/maohaoyang369/Python_exercise/blob/master/148.py)
+
+###### [149. 使用ascii码 输出小写26个字母，a-z](https://github.com/maohaoyang369/Python_exercise/blob/master/149.py)

@@ -307,3 +307,15 @@
 ###### [153. 遍历一个字符串"abdfsasd"，请判断列表里面是否有a，有的话打印find it,没有的话提示，没有"a"](https://github.com/maohaoyang369/Python_exercise/blob/master/153.py)
 
 ###### [154. 计算一个字符串"abdfsasd"有几个a](https://github.com/maohaoyang369/Python_exercise/blob/master/154.py)
+
+###### [155. 输入高考的5个成绩](https://github.com/maohaoyang369/Python_exercise/blob/master/155.py)
+
+###### [156. 从1遍历到10，计算有几个偶数](https://github.com/maohaoyang369/Python_exercise/blob/master/156.py)
+
+###### [157. 死循环从键盘输入内容，并打印，当输入“.”的时候退出循环](https://github.com/maohaoyang369/Python_exercise/blob/master/157.py)
+
+###### [158. 列表[1,3,5,7,9],请将之拼接为一个字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/158.py)
+
+###### [159. 将"13579"的字符串转换为一个列表](https://github.com/maohaoyang369/Python_exercise/blob/master/159.py)
+
+###### [160. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/160.py)

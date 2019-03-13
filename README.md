@@ -297,3 +297,13 @@
 ###### [148. 使用必填参数、默认参数、可变元组参数、可变字典参数，计算一下单词的长度之和](https://github.com/maohaoyang369/Python_exercise/blob/master/148.py)
 
 ###### [149. 使用ascii码 输出小写26个字母，a-z](https://github.com/maohaoyang369/Python_exercise/blob/master/149.py)
+
+###### [150. 使用ascii码 输出大写26个字母，A-Z](https://github.com/maohaoyang369/Python_exercise/blob/master/150.py)
+
+###### [151. 使用ascii码 输出大小写26个字母，a-zA-Z](https://github.com/maohaoyang369/Python_exercise/blob/master/151.py)
+
+###### [152. 遍历一个列表[1,2,3,4,5,1]，请判断列表里面是否有1，有的话打印find it,没有的话提示，没有1](https://github.com/maohaoyang369/Python_exercise/blob/master/152.py)
+
+###### [153. 遍历一个字符串"abdfsasd"，请判断列表里面是否有a，有的话打印find it,没有的话提示，没有"a"](https://github.com/maohaoyang369/Python_exercise/blob/master/153.py)
+
+###### [154. 计算一个字符串"abdfsasd"有几个a](https://github.com/maohaoyang369/Python_exercise/blob/master/154.py)

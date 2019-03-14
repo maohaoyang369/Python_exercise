@@ -319,3 +319,23 @@
 ###### [159. 将"13579"的字符串转换为一个列表](https://github.com/maohaoyang369/Python_exercise/blob/master/159.py)
 
 ###### [160. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/160.py)
+
+###### [161. 写一个函数，实现两个数相加，函数参数a,b](https://github.com/maohaoyang369/Python_exercise/blob/master/161.py)
+
+###### [162. 判断一个四位的数字，是否可以被2和5同时整除，如果可以打印可以整除，否则打印不可以整除](https://github.com/maohaoyang369/Python_exercise/blob/master/162.py)
+
+###### [163. 随机生成一个4位长度的整数数字，判断是否同时包含1和0](https://github.com/maohaoyang369/Python_exercise/blob/master/163.py)
+
+###### [164. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/164.py)
+
+###### [165. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/165.py)
+
+###### [166. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/166.py)
+
+###### [167. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/167.py)
+
+###### [168. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/168.py)
+
+###### [169. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/169.py)
+
+###### [170. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/170.py)

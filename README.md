@@ -326,16 +326,56 @@
 
 ###### [163. 随机生成一个4位长度的整数数字，判断是否同时包含1和0](https://github.com/maohaoyang369/Python_exercise/blob/master/163.py)
 
-###### [164. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/164.py)
+###### [164. 生成一个随机的8位密码，要求4个字母和4个数字](https://github.com/maohaoyang369/Python_exercise/blob/master/164.py)
 
-###### [165. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/165.py)
+###### [165. 求25这个数字可以整除的所有数字](https://github.com/maohaoyang369/Python_exercise/blob/master/165.py)
 
-###### [166. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/166.py)
+###### [166. 输入a,b,c三个数，求最大的那个](https://github.com/maohaoyang369/Python_exercise/blob/master/166.py)
 
-###### [167. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/167.py)
+###### [167. 随机生成一个1-10的整数，然后你输入一个值去比对，如果大了，打印大了，小了打印小了，等于则打印](https://github.com/maohaoyang369/Python_exercise/blob/master/167.py)
 
-###### [168. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/168.py)
+###### [168. 随机生成一个1-10的整数，然后你输入一个值去比对，如果大了，打印大了，小了打印小了，等于则打印,限定猜的次数不超过3次](https://github.com/maohaoyang369/Python_exercise/blob/master/168.py)
 
-###### [169. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/169.py)
+###### [169. 随机生成一个1-10的整数，然后你输入一个值去比对，如果大了，打印大了，小了打印小了，等于则打印,限定猜的次数不超过3次，一共猜了多少次](https://github.com/maohaoyang369/Python_exercise/blob/master/169.py)
 
-###### [170. 判断一个字符串是否包含非数字内容](https://github.com/maohaoyang369/Python_exercise/blob/master/170.py)
+###### [170. 生成一个列表["1a","2b","3c","4d","5e"]](https://github.com/maohaoyang369/Python_exercise/blob/master/170.py)
+
+###### [171. 生成一个列表["z1","y2","x3","w4","v5"]](https://github.com/maohaoyang369/Python_exercise/blob/master/171.py)
+
+###### [172. 将一个字符串的奇数坐标的字母拼成一个字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/172.py)
+
+###### [173. 将一个字符串首字母、最后一个字母和中间字母，三个字符串拼成一个字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/173.py)
+
+###### [174. 将一个列表[1,2,3,4,5]每个元素值扩大10倍后，在每个元素后面加上“abc”三个字母放到列表里面](https://github.com/maohaoyang369/Python_exercise/blob/master/174.py)
+
+###### [175. 两个列表[1,2,3,4,5],["a","b","c","d","e"]，将两个列表元素拼成一个字典，第一个列表元素做key，第二个做value](https://github.com/maohaoyang369/Python_exercise/blob/master/175.py)
+
+###### [176. 一个字典{1:"a",2:"b",3:"c"}，拼成一个列表[1,"a",2,"b",3,"c"]](https://github.com/maohaoyang369/Python_exercise/blob/master/176.py)
+
+###### [177. 使用for循环生成一个二维列表，[[1,2,3],[4,5,6],[7,8,9]]](https://github.com/maohaoyang369/Python_exercise/blob/master/177.py)
+
+###### [178. 将列表中[[1,2,3],[4,5,6],[7,8,9]]的所有奇数进行求和](https://github.com/maohaoyang369/Python_exercise/blob/master/178.py)
+
+###### [179. {1:'a',2:"b",3:'c'}，将所有key的数字求和，将value的所有字符串拼接为一个字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/179.py)
+
+###### [180. {1:'a',2:"b",3:'c'}将key和value进行交换，生成一个新字典](https://github.com/maohaoyang369/Python_exercise/blob/master/180.py)
+
+###### [181. 把[1,2,3,4,5,6]转换为字典{1:2,3:4,5:6}](https://github.com/maohaoyang369/Python_exercise/blob/master/181.py)
+
+###### [182. 生成随机的10个整数，进行求和](https://github.com/maohaoyang369/Python_exercise/blob/master/182.py)
+
+###### [183. [1,"a",2,"b",3,"c"]请将里面的所有数字保留，去掉所有字母](https://github.com/maohaoyang369/Python_exercise/blob/master/183.py)
+
+###### [184. "8426"变为"4213"](https://github.com/maohaoyang369/Python_exercise/blob/master/184.py)
+
+###### [185. 写一个函数输入一个字符串，判断是否包含 既不是数字也 不是字母 也不是_ 的字符，只要包含一个就返回false](https://github.com/maohaoyang369/Python_exercise/blob/master/185.py)
+
+###### [186. 将['a','b','M','N']，将所有小写字母变为大写字母，大写字母变为小写字母["A","B","m","n"]](https://github.com/maohaoyang369/Python_exercise/blob/master/186.py)
+
+###### [187. 输入一个正整数，输出该正整数的阶乘的值](https://github.com/maohaoyang369/Python_exercise/blob/master/187.py)
+
+###### [188. 生成字符串"acegi”](https://github.com/maohaoyang369/Python_exercise/blob/master/188.py)
+
+###### [189. 生成列表[“a”,”c”,”e”,”g”,”i”]](https://github.com/maohaoyang369/Python_exercise/blob/master/189.py)
+
+###### [190. 生成字典{“a”:1,”c”:3,”e”:5,”g”:7,”i”:9}](https://github.com/maohaoyang369/Python_exercise/blob/master/190.py)

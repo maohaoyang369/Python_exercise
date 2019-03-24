@@ -379,3 +379,27 @@
 ###### [189. 生成列表[“a”,”c”,”e”,”g”,”i”]](https://github.com/maohaoyang369/Python_exercise/blob/master/189.生成列表.py)
 
 ###### [190. 生成字典{“a”:1,”c”:3,”e”:5,”g”:7,”i”:9}](https://github.com/maohaoyang369/Python_exercise/blob/master/190.生成字典.py)
+
+###### [191.写一个函数，参数传入字符串abc,函数返回字符串xyz]191.写一个函数，参数传入字符串abc,函数返回字符串xyz190.生成字典.py)
+
+###### [192.写一个函数，如果传入的是list，且list长度大于3，只保留前3个元素并返回](https://github.com/maohaoyang369/Python_exercise/blob/master/192.写一个函数，如果传入的是list，且list长度大于3，只保留前3个元素并返回.py)
+
+###### [193.用户输入abc123,程序返回a321cb](https://github.com/maohaoyang369/Python_exercise/blob/master/193.用户输入abc123,程序返回a321cb.py)
+
+###### [194.替换列表中的数据](https://github.com/maohaoyang369/Python_exercise/blob/master/194.替换列表中的数据.py)
+
+###### [195.统计You are ,a beautifull Girl,666! 中数字和字母的总个数](https://github.com/maohaoyang369/Python_exercise/blob/master/195.统计You are ,a beautifull Girl,666! 中数字和字母的总个数.py)
+
+###### [196.将a = [1,2,[3,4,[5,6,7,[8,9,[10,11]]]]] 转换成  [1,2,3,4,5,6,7,8,9,10] 递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.将a = [1,2,[3,4,[5,6,7,[8,9,[10,11]]]]] 转换成  [1,2,3,4,5,6,7,8,9,10] 递归.py)
+
+###### [197.用户输入一个内容，判断里面是否包含了数字](https://github.com/maohaoyang369/Python_exercise/blob/master/197.用户输入一个内容，判断里面是否包含了数字.py)
+
+###### [198.用户输入一个内容，判断一下输入内容的长度是否为5，是则打印是，否则打印否](https://github.com/maohaoyang369/Python_exercise/blob/master/198.用户输入一个内容，判断一下输入内容的长度是否为5，是则打印是，否则打印否.py)
+
+###### [199.将一个字符串转换为元组](https://github.com/maohaoyang369/Python_exercise/blob/master/199.将一个字符串转换为元组.py)
+
+###### [200.求两个数的最大公约数（递归）](https://github.com/maohaoyang369/Python_exercise/blob/master/200.求两个数的最大公约数（递归）.py)
+
+
+
+

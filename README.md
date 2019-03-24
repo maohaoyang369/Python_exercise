@@ -374,8 +374,8 @@
 
 ###### [187. 输入一个正整数，输出该正整数的阶乘的值](https://github.com/maohaoyang369/Python_exercise/blob/master/187.输入一个正整数,输出该正整数的阶乘的值.py)
 
-###### [188. 生成字符串"acegi”](https://github.com/maohaoyang369/Python_exercise/blob/master/188.生成字符串'acegi'.py)
+###### [188. 生成字符串"acegi”](https://github.com/maohaoyang369/Python_exercise/blob/master/188.生成字符串.py)
 
 ###### [189. 生成列表[“a”,”c”,”e”,”g”,”i”]](https://github.com/maohaoyang369/Python_exercise/blob/master/189.生成列表.py)
 
-###### [190. 生成字典{“a”:1,”c”:3,”e”:5,”g”:7,”i”:9}](https://github.com/maohaoyang369/Python_exercise/blob/master/190.生成字典{'a'.1,'c'.3,'e'.5,'g'.7,'i'.9}.py)
+###### [190. 生成字典{“a”:1,”c”:3,”e”:5,”g”:7,”i”:9}](https://github.com/maohaoyang369/Python_exercise/blob/master/190.生成字典.py)

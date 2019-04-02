@@ -404,3 +404,12 @@
 
 ###### [202.[1,2,3,4,5]确定3在第几个位置](https://github.com/maohaoyang369/Python_exercise/blob/master/202.[1,2,3,4,5]确定3在第几个位置.py)
 
+###### [203.将[1,2,3,4,5] 转换成[5,1,2,3,4]  将位置向后移1](https://github.com/maohaoyang369/Python_exercise/blob/master/203.将[1,2,3,4,5] 转换成[5,1,2,3,4]  将位置向后移1.py)
+
+###### [204.统计列表中  字符串出现了几次](https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中  字符串出现了几次.py)
+
+###### [205.把列表中所有的数字求和，字符串数字也要算上](https://github.com/maohaoyang369/Python_exercise/blob/master/205.把列表中所有的数字求和，字符串数字也要算上.py)
+
+###### [206.将字符串，处理成 python 字典](https://github.com/maohaoyang369/Python_exercise/blob/master/206.将字符串，处理成 python 字典.py)
+
+###### [207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断](https://github.com/maohaoyang369/Python_exercise/blob/master/207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断.py)

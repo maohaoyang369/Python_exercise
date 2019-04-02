@@ -390,7 +390,7 @@
 
 ###### [195.统计Youare,abeautifullGirl,666!中数字和字母的总个数](https://github.com/maohaoyang369/Python_exercise/blob/master/195.统计Youare,abeautifullGirl,666!中数字和字母的总个数.py)
 
-###### [196.将a = [1,2,[3,4,[5,6,7,[8,9,[10,11]]]]] 转换成  [1,2,3,4,5,6,7,8,9,10] 递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.将a = [1,2,[3,4,[5,6,7,[8,9,[10,11]]]]] 转换成  [1,2,3,4,5,6,7,8,9,10] 递归.py)
+###### [196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归.py)
 
 ###### [197.用户输入一个内容，判断里面是否包含了数字](https://github.com/maohaoyang369/Python_exercise/blob/master/197.用户输入一个内容，判断里面是否包含了数字.py)
 

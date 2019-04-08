@@ -419,3 +419,33 @@
 ###### [209.生成一个列表，-1左边是小于它的，右边是大于它的](https://github.com/maohaoyang369/Python_exercise/blob/master/209.生成一个列表，-1左边是小于它的，右边是大于它的.py)
 
 ###### [210.在列表中插入一个新的元素，在0的前面插入1000，不能用insert](https://github.com/maohaoyang369/Python_exercise/blob/master/210.在列表中插入一个新的元素，在0的前面插入1000，不能用insert.py)
+
+###### [211.max()排序](https://github.com/maohaoyang369/Python_exercise/blob/master/211.max()排序.py)
+
+###### [212.把开头、结尾、中间位置的字母变为1，其他字母不变](https://github.com/maohaoyang369/Python_exercise/blob/master/212.把开头、结尾、中间位置的字母变为1，其他字母不变.py)
+
+###### [213.按列表中第一个值的大小进行排序](https://github.com/maohaoyang369/Python_exercise/blob/master/213.按列表中第一个值的大小进行排序.py)
+
+###### [214.找到英文句子中最长的单词](https://github.com/maohaoyang369/Python_exercise/blob/master/214.找到英文句子中最长的单词.py)
+
+###### [215.生成一个学生资料库](https://github.com/maohaoyang369/Python_exercise/blob/master/215.生成一个学生资料库.py)
+
+###### [216.abcdefgh里面挑出3个字母进行组合，一共有多少种组合](https://github.com/maohaoyang369/Python_exercise/blob/master/216.abcdefgh里面挑出3个字母进行组合，一共有多少种组合.py)
+
+###### [217.复制一个列表，不能使用切片和复制的函数进行赋值，尽可能使用少的内置函数](https://github.com/maohaoyang369/Python_exercise/blob/master/217.复制一个列表，不能使用切片和复制的函数进行赋值，尽可能使用少的内置函数.py)
+
+###### [218.推导列表：将字典中key为数字的相加求和](https://github.com/maohaoyang369/Python_exercise/blob/master/218.推导列表：将字典中key为数字的相加求和.py)
+
+###### [219.判断一个字符串是否有连续的5个数字（正则）](https://github.com/maohaoyang369/Python_exercise/blob/master/219.判断一个字符串是否有连续的5个数字（正则）.py)
+
+###### [220.正则练习](https://github.com/maohaoyang369/Python_exercise/blob/master/220.正则练习.py)
+
+###### [221.按照key的大小顺序升序进行输出](https://github.com/maohaoyang369/Python_exercise/blob/master/221.按照key的大小顺序升序进行输出.py)
+
+###### [222.一个字符串排序](https://github.com/maohaoyang369/Python_exercise/blob/master/222.一个字符串排序.py)
+
+###### [223.生成一个字典,key是26个小写字母a-z,value是她的acsii码](https://github.com/maohaoyang369/Python_exercise/blob/master/223.生成一个字典,key是26个小写字母a-z,value是她的acsii码.py)
+
+###### [224.把‘abc’中的b替换成1](https://github.com/maohaoyang369/Python_exercise/blob/master/224.把‘abc’中的b替换成1.py)
+
+###### [225.请输入2个数字,相加,打印结果](https://github.com/maohaoyang369/Python_exercise/blob/master/225.请输入2个数字,相加,打印结果.py)

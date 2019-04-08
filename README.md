@@ -406,7 +406,7 @@
 
 ###### [203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1](https://github.com/maohaoyang369/Python_exercise/blob/master/203.%E5%B0%86%5B1%2C2%2C3%2C4%2C5%5D%20%E8%BD%AC%E6%8D%A2%E6%88%90%5B5%2C1%2C2%2C3%2C4%5D%20%20%E5%B0%86%E4%BD%8D%E7%BD%AE%E5%90%91%E5%90%8E%E7%A7%BB1.py)
 
-###### [204.统计列表中字符串出现了几次](https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中%20%20字符串出现了几次.py）
+###### [204.统计列表中字符串出现了几次](https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中%20%20字符串出现了几次.py)
 
 ###### [205.把列表中所有的数字求和，字符串数字也要算上](https://github.com/maohaoyang369/Python_exercise/blob/master/205.把列表中所有的数字求和，字符串数字也要算上.py)
 

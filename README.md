@@ -390,7 +390,7 @@
 
 ###### [195.统计Youare,abeautifullGirl,666!中数字和字母的总个数](https://github.com/maohaoyang369/Python_exercise/blob/master/195.统计Youare,abeautifullGirl,666!中数字和字母的总个数.py)
 
-###### [196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归.py)
+###### [196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.%E5%B0%86a%20%3D%20%5B1%2C2%2C%5B3%2C4%2C%5B5%2C6%2C7%2C%5B8%2C9%2C%5B10%2C11%5D%5D%5D%5D%5D%20%E8%BD%AC%E6%8D%A2%E6%88%90%20%20%5B1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%5D%20%E9%80%92%E5%BD%92.py)
 
 ###### [197.用户输入一个内容，判断里面是否包含了数字](https://github.com/maohaoyang369/Python_exercise/blob/master/197.用户输入一个内容，判断里面是否包含了数字.py)
 
@@ -406,10 +406,10 @@
 
 ###### [203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1](https://github.com/maohaoyang369/Python_exercise/blob/master/203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1.py)
 
-###### [204.统计列表中字符串出现了几次](https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中字符串出现了几次.py)
+###### [204.统计列表中字符串出现了几次]https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中%20%20字符串出现了几次.py）
 
 ###### [205.把列表中所有的数字求和，字符串数字也要算上](https://github.com/maohaoyang369/Python_exercise/blob/master/205.把列表中所有的数字求和，字符串数字也要算上.py)
 
-###### [206.将字符串，处理成python字典](https://github.com/maohaoyang369/Python_exercise/blob/master/206.将字符串，处理成python字典.py)
+###### [206.将字符串，处理成python字典](https://github.com/maohaoyang369/Python_exercise/blob/master/206.将字符串，处理成%20python%20字典.py)
 
 ###### [207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断](https://github.com/maohaoyang369/Python_exercise/blob/master/207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断.py)

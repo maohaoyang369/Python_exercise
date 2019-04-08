@@ -380,7 +380,7 @@
 
 ###### [190. 生成字典{“a”:1,”c”:3,”e”:5,”g”:7,”i”:9}](https://github.com/maohaoyang369/Python_exercise/blob/master/190.生成字典.py)
 
-###### [191.写一个函数，参数传入字符串abc,函数返回字符串xyz](https://github.com/maohaoyang369/Python_exercise/blob/master/191.写一个函数，参数传入字符串abc,函数返回字符串xyz190.生成字典.py)
+###### [191.写一个函数，参数传入字符串abc,函数返回字符串xyz](https://github.com/maohaoyang369/Python_exercise/blob/master/191.写一个函数，参数传入字符串abc,函数返回字符串xyz.py)
 
 ###### [192.写一个函数，如果传入的是list，且list长度大于3，只保留前3个元素并返回](https://github.com/maohaoyang369/Python_exercise/blob/master/192.写一个函数，如果传入的是list，且list长度大于3，只保留前3个元素并返回.py)
 
@@ -390,7 +390,7 @@
 
 ###### [195.统计Youare,abeautifullGirl,666!中数字和字母的总个数](https://github.com/maohaoyang369/Python_exercise/blob/master/195.统计Youare,abeautifullGirl,666!中数字和字母的总个数.py)
 
-###### [196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.%E5%B0%86a%20%3D%20%5B1%2C2%2C%5B3%2C4%2C%5B5%2C6%2C7%2C%5B8%2C9%2C%5B10%2C11%5D%5D%5D%5D%5D%20%E8%BD%AC%E6%8D%A2%E6%88%90%20%20%5B1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%5D%20%E9%80%92%E5%BD%92.py)
+###### [196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归](https://github.com/maohaoyang369/Python_exercise/blob/master/196.将a=[1,2,[3,4,[5,6,7,[8,9,[10,11]]]]]转换成[1,2,3,4,5,6,7,8,9,10]递归.py)
 
 ###### [197.用户输入一个内容，判断里面是否包含了数字](https://github.com/maohaoyang369/Python_exercise/blob/master/197.用户输入一个内容，判断里面是否包含了数字.py)
 
@@ -402,11 +402,11 @@
 
 ###### [201.画图形](https://github.com/maohaoyang369/Python_exercise/blob/master/201.画图形.py)
 
-###### [202.[1,2,3,4,5]确定3在第几个位置](https://github.com/maohaoyang369/Python_exercise/blob/master/202.[1,2,3,4,5]确定3在第几个位置.py)
+###### [202.[1,2,3,4,5]确定3在第几个位置](https://github.com/maohaoyang369/Python_exercise/blob/master/202.%5B1%2C2%2C3%2C4%2C5%5D%20%20%E7%A1%AE%E5%AE%9A3%20%E5%9C%A8%E7%AC%AC%E5%87%A0%E4%B8%AA%E4%BD%8D%E7%BD%AE.py)
 
-###### [203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1](https://github.com/maohaoyang369/Python_exercise/blob/master/203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1.py)
+###### [203.将[1,2,3,4,5]转换成[5,1,2,3,4]将位置向后移1](https://github.com/maohaoyang369/Python_exercise/blob/master/203.%E5%B0%86%5B1%2C2%2C3%2C4%2C5%5D%20%E8%BD%AC%E6%8D%A2%E6%88%90%5B5%2C1%2C2%2C3%2C4%5D%20%20%E5%B0%86%E4%BD%8D%E7%BD%AE%E5%90%91%E5%90%8E%E7%A7%BB1.py)
 
-###### [204.统计列表中字符串出现了几次]https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中%20%20字符串出现了几次.py）
+###### [204.统计列表中字符串出现了几次]（https://github.com/maohaoyang369/Python_exercise/blob/master/204.统计列表中%20%20字符串出现了几次.py）
 
 ###### [205.把列表中所有的数字求和，字符串数字也要算上](https://github.com/maohaoyang369/Python_exercise/blob/master/205.把列表中所有的数字求和，字符串数字也要算上.py)
 

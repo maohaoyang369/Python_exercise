@@ -413,3 +413,9 @@
 ###### [206.将字符串，处理成python字典](https://github.com/maohaoyang369/Python_exercise/blob/master/206.将字符串，处理成%20python%20字典.py)
 
 ###### [207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断](https://github.com/maohaoyang369/Python_exercise/blob/master/207.一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？在10万以内判断.py)
+
+###### [208.请输入星期几的第一个字母来判断一下是星期几，如果第一个字母一样，则继续判断第二个字母](https://github.com/maohaoyang369/Python_exercise/blob/master/208.请输入星期几的第一个字母来判断一下是星期几，如果第一个字母一样，则继续判断第二个字母.py)
+
+###### [209.生成一个列表，-1左边是小于它的，右边是大于它的](https://github.com/maohaoyang369/Python_exercise/blob/master/209.生成一个列表，-1左边是小于它的，右边是大于它的.py)
+
+###### [210.在列表中插入一个新的元素，在0的前面插入1000，不能用insert](https://github.com/maohaoyang369/Python_exercise/blob/master/210.在列表中插入一个新的元素，在0的前面插入1000，不能用insert.py)

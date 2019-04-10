@@ -468,7 +468,7 @@
 
 ###### [234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False](https://github.com/maohaoyang369/Python_exercise/blob/master/234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False.py)
 
-###### [235.写入文件 a26b25](https://github.com/maohaoyang369/Python_exercise/blob/master/235.写入文件 a26b25.py)
+###### [235.写入文件a26b25](https://github.com/maohaoyang369/Python_exercise/blob/master/235.写入文件a26b25.py)
 
 ###### [236.游标的第5个位置，第一次写a，读出来，第二次写b,读出来，读出来第二行的一个游标位置的内容](https://github.com/maohaoyang369/Python_exercise/blob/master/236.游标的第5个位置，第一次写a，读出来，第二次写b,读出来，读出来第二行的一个游标位置的内容.py)
 

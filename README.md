@@ -449,3 +449,33 @@
 ###### [224.把‘abc’中的b替换成1](https://github.com/maohaoyang369/Python_exercise/blob/master/224.把‘abc’中的b替换成1.py)
 
 ###### [225.请输入2个数字,相加,打印结果](https://github.com/maohaoyang369/Python_exercise/blob/master/225.请输入2个数字,相加,打印结果.py)
+
+###### [226.程序建立一个10级的目录pic1到pic10](https://github.com/maohaoyang369/Python_exercise/blob/master/226.程序建立一个10级的目录pic1到pic10.py)
+
+###### [227.将gloryroad按照如下规则进行加密](https://github.com/maohaoyang369/Python_exercise/blob/master/227.将gloryroad按照如下规则进行加密.py)
+
+###### [228.统计一下首字母为a的单词](https://github.com/maohaoyang369/Python_exercise/blob/master/228.统计一下首字母为a的单词.py)
+
+###### [229.查找指定字符串的所有位置](https://github.com/maohaoyang369/Python_exercise/blob/master/229.查找指定字符串的所有位置.py)
+
+###### [230.实现字符串方法的类](https://github.com/maohaoyang369/Python_exercise/blob/master/230.实现字符串方法的类.py)
+
+###### [231.判断一下一句话中有几个数字和几个空白](https://github.com/maohaoyang369/Python_exercise/blob/master/231.判断一下一句话中有几个数字和几个空白.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [233.一个字符串，请依照如下规则转换为数字](https://github.com/maohaoyang369/Python_exercise/blob/master/233.一个字符串，请依照如下规则转换为数字.py)
+
+###### [234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False](https://github.com/maohaoyang369/Python_exercise/blob/master/234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+
+###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)

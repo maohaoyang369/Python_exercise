@@ -468,14 +468,14 @@
 
 ###### [234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False](https://github.com/maohaoyang369/Python_exercise/blob/master/234.从控制台输入一串字母，判断是否是连续相同字母，是则输出True，否则输出False.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [235.写入文件 a26b25](https://github.com/maohaoyang369/Python_exercise/blob/master/235.写入文件 a26b25.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [236.游标的第5个位置，第一次写a，读出来，第二次写b,读出来，读出来第二行的一个游标位置的内容](https://github.com/maohaoyang369/Python_exercise/blob/master/236.游标的第5个位置，第一次写a，读出来，第二次写b,读出来，读出来第二行的一个游标位置的内容.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [237.文件中有两行内容，在中间再加入一行](https://github.com/maohaoyang369/Python_exercise/blob/master/237.文件中有两行内容，在中间再加入一行.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [238.删除文件中的空行](https://github.com/maohaoyang369/Python_exercise/blob/master/238.删除文件中的空行.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [239.读一个文件，包含英文句子，请统计共多少个不重复的单词，并且在另外一个文件中打印每个单词以及它的出现次数](https://github.com/maohaoyang369/Python_exercise/blob/master/239.读一个文件，包含英文句子，请统计共多少个不重复的单词，并且在另外一个文件中打印每个单词以及它的出现次数.py)
 
-###### [232.写一个函数，实现遍历一个数字和字母参杂的字符串](https://github.com/maohaoyang369/Python_exercise/blob/master/232.写一个函数，实现遍历一个数字和字母参杂的字符串.py)
+###### [240.记账程序，每天收入多少，支出多少，总额剩多少，使用序列化方式保存信息](https://github.com/maohaoyang369/Python_exercise/blob/master/240.记账程序，每天收入多少，支出多少，总额剩多少，使用序列化方式保存信息.py)

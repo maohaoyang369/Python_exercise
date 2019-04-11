@@ -479,3 +479,13 @@
 ###### [239.读一个文件，包含英文句子，请统计共多少个不重复的单词，并且在另外一个文件中打印每个单词以及它的出现次数](https://github.com/maohaoyang369/Python_exercise/blob/master/239.读一个文件，包含英文句子，请统计共多少个不重复的单词，并且在另外一个文件中打印每个单词以及它的出现次数.py)
 
 ###### [240.记账程序，每天收入多少，支出多少，总额剩多少，使用序列化方式保存信息](https://github.com/maohaoyang369/Python_exercise/blob/master/240.记账程序，每天收入多少，支出多少，总额剩多少，使用序列化方式保存信息.py)
+
+###### [241.通过文件处理数据](https://github.com/maohaoyang369/Python_exercise/blob/master/241.通过文件处理数据.py)
+
+###### [242.删除某一目录下所有的txt文件](https://github.com/maohaoyang369/Python_exercise/blob/master/242.删除某一目录下所有的txt文件.py)
+
+###### [243.把目录下所有的txt文件干掉，新建一个空的子目录xxx，放在某个层级下，把它删掉](https://github.com/maohaoyang369/Python_exercise/blob/master/243.把目录下所有的txt文件干掉，新建一个空的子目录xxx，放在某个层级下，把它删掉.py)
+
+###### [244.生成目录和文件的绝对路径](https://github.com/maohaoyang369/Python_exercise/blob/master/244.生成目录和文件的绝对路径.py)
+
+###### [245.统计一下某个目录下的，所有不同后缀名的个数，以及哪些具体的后缀名](https://github.com/maohaoyang369/Python_exercise/blob/master/245.统计一下某个目录下的，所有不同后缀名的个数，以及哪些具体的后缀名.py)

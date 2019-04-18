@@ -489,3 +489,9 @@
 ###### [244.生成目录和文件的绝对路径](https://github.com/maohaoyang369/Python_exercise/blob/master/244.生成目录和文件的绝对路径.py)
 
 ###### [245.统计一下某个目录下的，所有不同后缀名的个数，以及哪些具体的后缀名](https://github.com/maohaoyang369/Python_exercise/blob/master/245.统计一下某个目录下的，所有不同后缀名的个数，以及哪些具体的后缀名.py)
+
+###### [246.统计一下：当前目录的下文件数量总和（只有一级目录）](https://github.com/maohaoyang369/Python_exercise/blob/master/246.统计一下：当前目录的下文件数量总和（只有一级目录）.py)
+
+###### [247.把一个文件中的所有数字删除](https://github.com/maohaoyang369/Python_exercise/blob/master/247.把一个文件中的所有数字删除.py)
+
+###### [248.把一个多级目录中所有文件的字母删除](https://github.com/maohaoyang369/Python_exercise/blob/master/248.把一个多级目录中所有文件的字母删除.py)

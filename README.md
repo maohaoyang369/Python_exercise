@@ -495,3 +495,5 @@
 ###### [247.把一个文件中的所有数字删除](https://github.com/maohaoyang369/Python_exercise/blob/master/247.把一个文件中的所有数字删除.py)
 
 ###### [248.把一个多级目录中所有文件的字母删除](https://github.com/maohaoyang369/Python_exercise/blob/master/248.把一个多级目录中所有文件的字母删除.py)
+
+###### [249.写函数，把时间戳，转换为日期](https://github.com/maohaoyang369/Python_exercise/blob/master/249.写函数，把时间戳，转换为日期.py)

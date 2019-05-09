@@ -497,3 +497,11 @@
 ###### [248.把一个多级目录中所有文件的字母删除](https://github.com/maohaoyang369/Python_exercise/blob/master/248.把一个多级目录中所有文件的字母删除.py)
 
 ###### [249.写函数，把时间戳，转换为日期](https://github.com/maohaoyang369/Python_exercise/blob/master/249.写函数，把时间戳，转换为日期.py)
+
+###### [250.写一个包，里面实现一个模块'模块里面有个类，有两个实例方法，一个方法可以统计有个路径文件的英文个数，一个是统计空白字符个数，再实现一下调用类的逻辑](https://github.com/maohaoyang369/Python_exercise/blob/master/250.写一个包，里面实现一个模块'模块里面有个类，有两个实例方法，一个方法可以统计有个路径文件的英文个数，一个是统计空白字符个数，再实现一下调用类的逻辑.py)
+
+###### [251.写一个类，能够实现构造函数（有参数），实现实例方法，实现类方法，实现静态方法](https://github.com/maohaoyang369/Python_exercise/blob/master/251.写一个类，能够实现构造函数（有参数），实现实例方法，实现类方法，实现静态方法.py)
+
+###### [252.输入三个数，判断是否能构成三角形能构成三角形三边关系](https://github.com/maohaoyang369/Python_exercise/blob/master/252.输入三个数，判断是否能构成三角形能构成三角形三边关系.py)
+
+###### [253.实现字典的fromkeys方法](https://github.com/maohaoyang369/Python_exercise/blob/master/253.实现字典的fromkeys方法.py)

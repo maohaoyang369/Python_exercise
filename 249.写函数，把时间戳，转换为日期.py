@@ -1,11 +1,15 @@
 # !/usr/bin/env python
 # -*- encoding: utf-8 -*-
 
-# 把一个多级目录中所有文件的字母删除
+# 写函数：当前的日期，格式："xxxx年xx月xx日"
+# 当前的时间，格式："xx小时xx分钟xx秒"
+# 当前的日期和时间，格式：xxxx年xx月xx日 xx小时xx分钟xx秒
+# 把时间戳，转换为日期，格式："xxxx年xx月xx日"
+# 把时间戳，转换为日期和时间，格式：xxxx年xx月xx日 xx小时xx分钟xx秒
 
 
 import time
-import datetime
+# import datetime
 import locale
 locale.setlocale(locale.LC_CTYPE, 'chinese')     # 设定当时
 

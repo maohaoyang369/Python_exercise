@@ -19,3 +19,5 @@ def fromkeys_function(dic_keys, dic_values):
 dic_keys = ('name', 'age', 'sex')
 
 print(fromkeys_function(dic_keys, 100))
+
+

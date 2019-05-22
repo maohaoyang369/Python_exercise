@@ -4,7 +4,7 @@
 
 ###### [002.输入数字a，n，如a，4，则打印a+aa+aaa+aaaa之和](https://github.com/maohaoyang369/Python_exercise/blob/master/002.输入数字a,n,如a,4,则打印a+aa+aaa+aaaa之和.py)
 
-###### [003.输入数字a，n，如a，4，则打印a+aa+aaa+aaaa之和](https://github.com/maohaoyang369/Python_exercise/blob/master/003.钞票换硬币.py)
+###### [003.钞票换硬币](https://github.com/maohaoyang369/Python_exercise/blob/master/003.钞票换硬币.py)
 
 ###### [004.一个字符串 list，每个元素是 1 个 ip，输出出现次数最多的 ip](https://github.com/maohaoyang369/Python_exercise/blob/master/004.一个字符串list,每个元素是1个ip,输出出现次数最多的ip.py)
 
@@ -505,3 +505,9 @@
 ###### [252.输入三个数，判断是否能构成三角形能构成三角形三边关系](https://github.com/maohaoyang369/Python_exercise/blob/master/252.输入三个数，判断是否能构成三角形能构成三角形三边关系.py)
 
 ###### [253.实现字典的fromkeys方法](https://github.com/maohaoyang369/Python_exercise/blob/master/253.实现字典的fromkeys方法.py)
+
+###### [254.键盘读入一字符串，逆序输出](https://github.com/maohaoyang369/Python_exercise/blob/master/254.键盘读入一字符串，逆序输出.py)
+
+###### [255.打印分数](https://github.com/maohaoyang369/Python_exercise/blob/master/255.打印分数.py)
+
+###### [256.5个进程，新建5个文件，每个文件写100行自定义的文字](https://github.com/maohaoyang369/Python_exercise/blob/master/256.5个进程，新建5个文件，每个文件写100行自定义的文字.py)

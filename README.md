@@ -511,3 +511,7 @@
 ###### [255.打印分数](https://github.com/maohaoyang369/Python_exercise/blob/master/255.打印分数.py)
 
 ###### [256.5个进程，新建5个文件，每个文件写100行自定义的文字](https://github.com/maohaoyang369/Python_exercise/blob/master/256.5个进程，新建5个文件，每个文件写100行自定义的文字.py)
+
+###### [257.一个句子中的所有数字和标点符号删除](https://github.com/maohaoyang369/Python_exercise/blob/master/257.一个句子中的所有数字和标点符号删除.py)
+
+###### [258.自定义实现str.capitalize()](https://github.com/maohaoyang369/Python_exercise/blob/master/258.自定义实现str.capitalize().py)

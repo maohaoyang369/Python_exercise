@@ -515,3 +515,5 @@
 ###### [257.一个句子中的所有数字和标点符号删除](https://github.com/maohaoyang369/Python_exercise/blob/master/257.一个句子中的所有数字和标点符号删除.py)
 
 ###### [258.自定义实现str.capitalize()](https://github.com/maohaoyang369/Python_exercise/blob/master/258.自定义实现str.capitalize().py)
+
+###### [259.自定义实现str.title()](https://github.com/maohaoyang369/Python_exercise/blob/master/259.自定义实现str.title().py)

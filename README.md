@@ -516,4 +516,6 @@
 
 ###### [258.自定义实现str.capitalize()](https://github.com/maohaoyang369/Python_exercise/blob/master/258.自定义实现str.capitalize().py)
 
-###### [259.自定义实现str.title()](https://github.com/maohaoyang369/Python_exercise/blob/master/259.自定义实现str.title().py)
+###### [259.自定义实现str.title](https://github.com/maohaoyang369/Python_exercise/blob/master/259.自定义实现str.title.py)
+
+###### [260.自定义实现str.ljust](https://github.com/maohaoyang369/Python_exercise/blob/master/260.自定义实现str.ljust.py)

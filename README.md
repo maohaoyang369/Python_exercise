@@ -519,3 +519,7 @@
 ###### [259.自定义实现str.title](https://github.com/maohaoyang369/Python_exercise/blob/master/259.自定义实现str.title.py)
 
 ###### [260.自定义实现str.ljust](https://github.com/maohaoyang369/Python_exercise/blob/master/260.自定义实现str.ljust.py)
+
+###### [261.自定义实现str.center](https://github.com/maohaoyang369/Python_exercise/blob/master/261.自定义实现str.center.py)
+
+###### [262.自定义实现str.zfill](https://github.com/maohaoyang369/Python_exercise/blob/master/262.自定义实现str.zfill.py)

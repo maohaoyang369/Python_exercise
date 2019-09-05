@@ -523,3 +523,7 @@
 ###### [261.自定义实现str.center](https://github.com/maohaoyang369/Python_exercise/blob/master/261.自定义实现str.center.py)
 
 ###### [262.自定义实现str.zfill](https://github.com/maohaoyang369/Python_exercise/blob/master/262.自定义实现str.zfill.py)
+
+###### [263.自定义实现str.rfind](https://github.com/maohaoyang369/Python_exercise/blob/master/263.自定义实现str.rfind.py)
+
+###### [264.替换abc中的b为1](https://github.com/maohaoyang369/Python_exercise/blob/master/264.替换abc中的b为1.py)
